@@ -154,3 +154,7 @@ header, nav, main, footer { display: block; }
     display: inline-grid;
     margin-left: 10.5%
 }
+
+.video{
+    margin-left: 30%;
+}
